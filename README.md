@@ -159,7 +159,7 @@ The dataset source and usage terms: [Check original dataset documentation]
 
 **Vidyadhar Patil** ([@crushervp](https://github.com/crushervp))
 
-Bengaluru, India | Data Analyst & Python Developer
+Bengaluru, India
 
 ---
 
