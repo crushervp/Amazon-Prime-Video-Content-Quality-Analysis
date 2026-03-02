@@ -57,7 +57,7 @@ These datasets are joined to analyze patterns in cast, crew, and production qual
 
 ---
 
-## 🔍 Key Insights (Sample)
+## 🔍 Key Insights
 
 - 🎬 **Genre Dominance**: Certain genres (Drama, Comedy, Action) account for 60%+ of the catalogue, while niche genres are underrepresented.
 - ⭐ **Quality Variance**: Ratings show significant variation across genres and countries, revealing which regions produce the highest-rated content.
