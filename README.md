@@ -105,8 +105,8 @@ jupyter notebook Amazon_Prime_EDA.ipynb
 ├── Amazon_Prime_EDA.ipynb          # Main analysis notebook with all visualizations
 ├── titles.csv                      # Titles metadata (9,600+ rows)
 ├── credits.csv                     # Cast & crew information (100,000+ rows)
-├── credits_eda_report              # Report created by new library "YData Profiling"
-├── titles_eda_report               # Report created by new library "YData Profiling"
+├── credits_eda_report              # HTML report created by new library "YData Profiling"
+├── titles_eda_report               # HTML report created by new library "YData Profiling"
 ├── README.md                       # This file
 └── .gitignore                      # Standard Python gitignore
 ```
